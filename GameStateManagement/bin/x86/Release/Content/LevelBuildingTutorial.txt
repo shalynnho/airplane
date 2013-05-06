@@ -1,0 +1,17 @@
+How to build levels
+2 files required
+LevelXMap
+levelXData
+
+levelXMap has the 2D array (Must be 20 rows, 15 cols)
+Here's how the numbers map
+0 = floor
+1 = random height (used for border)
+2 = height of 2
+3 = height of 3
+4 = height of 1
+5 = height of 4
+
+LevelXData has two lines of 3 numbers
+first line is Vector3 of player's start position
+second line is vector3 of goal's position

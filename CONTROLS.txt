@@ -1,0 +1,19 @@
+Controls also in the main menu.
+
+Launch Prep Mode
+WASD - Rotating and aiming the airplane
+Arrow Keys - Rotate the camera
+T - Free Camera Mode
+Space Bar - Enter Flight Mode
+Left-Click - Place fan / Rotate Existing Fan
+Right-Click - Remove fan
+
+Free Camera Mode
+Q and E - Roll the camera
+W and S - Move the camera back and forth
+Arrow Keys - Aim the camera
+T - Launch Prep Mode
+
+Flight Mode
+R - End flight
+Arrow Keys - Rotate the Camera

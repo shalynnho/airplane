@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>C:\Users\dpaje\380\airplane\GameStateManagement\Content\PaperAirplaneToon.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>pPlane1</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 -2.1952107 -3.55271368E-15 0.0322978646 1</Transform>
+        <Positions>-0.536163568 -1.22124533E-15 5.5 2.126779 -2.15686321 5.49999952 2.126779 9.983778E-07 -5.5 -0.536163568 -8.941784E-16 4.027021 1.58883548 -1.22124533E-15 5.5 2.66472268 -1.0776563E-15 5.5 4.789722 -8.941784E-16 4.027021 4.789722 -1.22124533E-15 5.5</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 5 4 3 3 6 5 9 8 7 12 11 10 10 13 12</Indices>
+            <Vertices>
+              <PositionIndices>4 1 2 0 4 2 3 5 2 1 7 6 2 5</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.9691866 0.241724879 0.04739709 0.9691866 0.241724879 0.04739709 0.9691866 0.241724879 0.04739709 -5.387279E-08 1 7.771979E-08 -5.387279E-08 1 7.771979E-08 -5.387279E-08 1 7.771979E-08 -5.387279E-08 1 7.771979E-08 -0.9691866 0.241724938 0.04739709 -0.9691866 0.241724938 0.04739709 -0.9691866 0.241724938 0.04739709 5.387278E-08 1 7.771978E-08 5.387278E-08 1 7.771978E-08 5.387278E-08 1 7.771978E-08 5.387278E-08 1 7.771978E-08</VertexChannel>
+                <VertexChannel Name="TextureCoordinate1" ElementType="Framework:Vector2">0.193181813 1 0.386363626 1 0.386363626 0 0 1 0.193181813 1 0.386363626 0 0 0.8660928 0.193181813 1 0.386363626 0 0.386363626 1 0 1 0 0.8660928 0.386363626 0 0.193181813 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child>
+        <Name>pfxToon1</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>lambert1</Name>
+      <Identity>
+        <SourceFilename>C:\Users\dpaje\380\airplane\GameStateManagement\Content\PaperAirplaneToon.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0.1869993 0.1869993 0.1869993</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

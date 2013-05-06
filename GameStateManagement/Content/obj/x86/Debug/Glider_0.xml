@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>pPlane1</Name>
+    <Identity>
+      <SourceFilename>C:\Users\dpaje\380\airplane\GameStateManagement\Content\Glider.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>2.30532479 0 0 0 0 1 0 0 0 0 0.548958361 0 -6.046516 -3.55271368E-15 0.0322978646 1</Transform>
+    <Positions>-0.1336754 -1.22124533E-15 5.972118 2.126779 -2.15686321 5.97211742 2.126779 9.983778E-07 -5.972118 2.126779 -0.677348137 -2.106183 1.87775958 0.07844663 0.0241044611 -0.1336754 -8.941784E-16 4.372699 1.91622663 -1.22124533E-15 5.972118 2.33733177 -1.0776563E-15 5.972118 2.3757987 0.07844663 0.0241044611 4.38723373 -8.941784E-16 4.372699 4.38723373 -1.22124533E-15 5.972118</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 5 4 3 8 7 6 11 10 9 9 12 11 15 14 13 18 17 16 21 20 19 24 23 22 22 25 24</Indices>
+        <Vertices>
+          <PositionIndices>6 1 2 4 2 3 5 2 4 0 6 2 5 7 2 1 8 3 2 9 8 2 10 9 2 7</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.9951159 0.0971428454 0.0175418667 0.9951159 0.0971428454 0.0175418667 0.9951159 0.0971428454 0.0175418667 -0.9758353 -0.215228587 -0.0377101265 -0.9758353 -0.215228587 -0.0377101265 -0.9758353 -0.215228587 -0.0377101265 0.07371008 -0.9971497 0.0161063541 0.07371008 -0.9971497 0.0161063541 0.07371008 -0.9971497 0.0161063541 -5.68266358E-08 1 7.283209E-08 -5.68266358E-08 1 7.283209E-08 -5.68266358E-08 1 7.283209E-08 -5.68266358E-08 1 7.283209E-08 -0.9951159 0.0971432 0.0175418872 -0.9951159 0.0971432 0.0175418872 -0.9951159 0.0971432 0.0175418872 0.975835264 -0.215229228 -0.03771014 0.975835264 -0.215229228 -0.03771014 0.975835264 -0.215229228 -0.03771014 -0.073710084 -0.9971497 0.0161063559 -0.073710084 -0.9971497 0.0161063559 -0.073710084 -0.9971497 0.0161063559 5.682665E-08 1 7.28321E-08 5.682665E-08 1 7.28321E-08 5.682665E-08 1 7.28321E-08 5.682665E-08 1 7.28321E-08</VertexChannel>
+            <VertexChannel Name="TextureCoordinate1" ElementType="Framework:Vector2">0.193181813 1 0.386363626 1 0.386363626 0 0 0.5020181 0.386363626 0 0 0.323665321 0 0.8660928 0.386363626 0 0 0.5020181 0 1 0.193181813 1 0.386363626 0 0 0.8660928 0.193181813 1 0.386363626 0 0.386363626 1 0 0.5020181 0 0.323665321 0.386363626 0 0 0.8660928 0 0.5020181 0.386363626 0 0 1 0 0.8660928 0.386363626 0 0.193181813 1</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>lambert1</Name>
+      <Identity>
+        <SourceFilename>C:\Users\dpaje\380\airplane\GameStateManagement\Content\Glider.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.4 0.4 0.4</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

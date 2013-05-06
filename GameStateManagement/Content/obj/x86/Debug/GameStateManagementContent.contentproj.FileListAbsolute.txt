@@ -1,0 +1,2 @@
+C:\Users\dpaje\380\airplane\GameStateManagement\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dpaje\380\airplane\GameStateManagement\Content\obj\x86\Debug\Sounds.xml

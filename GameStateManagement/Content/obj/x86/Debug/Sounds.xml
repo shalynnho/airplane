@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="XNAsteroids Waves">Wave Bank
+{
+    Name = XNAsteroids Waves;
+    Xbox File = Xbox\XNAsteroids Waves.xwb;
+    Windows File = Win\XNAsteroids Waves.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 376864929;
+    PC Bank Last Modified High = 30035312;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 3820425904;
+    Bank Last Revised High = 29987426;
+
+    Wave
+    {
+        Name = boom1;
+        File = SoundSource\boom1.wav;
+        Build Settings Last Modified Low = 1447861568;
+        Build Settings Last Modified High = 29987417;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8363;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 945;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 474518784;
+            Last Modified High = 29933021;
+        }
+    }
+
+    Wave
+    {
+        Name = boom23;
+        File = SoundSource\boom23.wav;
+        Build Settings Last Modified Low = 1447861568;
+        Build Settings Last Modified High = 29987417;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8363;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 2147;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 474518784;
+            Last Modified High = 29933021;
+        }
+    }
+
+    Wave
+    {
+        Name = boom45;
+        File = SoundSource\boom45.wav;
+        Build Settings Last Modified Low = 1447861568;
+        Build Settings Last Modified High = 29987417;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8363;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 4621;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 474518784;
+            Last Modified High = 29933021;
+        }
+    }
+
+    Wave
+    {
+        Name = boom67;
+        File = SoundSource\boom67.wav;
+        Build Settings Last Modified Low = 1447871568;
+        Build Settings Last Modified High = 29987417;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 4181;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 4791;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 474518784;
+            Last Modified High = 29933021;
+        }
+    }
+
+    Wave
+    {
+        Name = rebirth;
+        File = SoundSource\rebirth.wav;
+        Build Settings Last Modified Low = 1447871568;
+        Build Settings Last Modified High = 29987417;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 4181;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 8735;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1442614528;
+            Last Modified High = 29932657;
+        }
+    }
+
+    Wave
+    {
+        Name = shipdies;
+        File = SoundSource\crumple.wav;
+        Build Settings Last Modified Low = 1447871568;
+        Build Settings Last Modified High = 29987417;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 4181;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 6887;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 474518784;
+            Last Modified High = 29933021;
+        }
+    }
+
+	Wave
+    {
+        Name = swoosh;
+        File = SoundSource\swoosh.wav;
+        Build Settings Last Modified Low = 1447871568;
+        Build Settings Last Modified High = 29987417;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 4181;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 6887;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 474518784;
+            Last Modified High = 29933021;
+        }
+    }	
+
+    Wave
+    {
+        Name = primary;
+        File = SoundSource\primary.wav;
+        Build Settings Last Modified Low = 3628795904;
+        Build Settings Last Modified High = 29987426;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8363;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 17059;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 454077952;
+            Last Modified High = 29987588;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

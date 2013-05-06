@@ -1,0 +1,3 @@
+Content\Sounds.xgs
+Content\XNAsteroids Waves.xwb
+Content\XNAsteroids Cues.xsb
